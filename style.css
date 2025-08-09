@@ -1,0 +1,77 @@
+.store-form .heading {
+    color: rgb(60, 60, 94);
+}
+
+body {
+    background-color:aqua;
+    padding:0 12px;
+}
+.store-form {
+    background-color: rgb(215, 215, 224);
+    max-width: 500px;
+    width: 100%;
+    margin: 20px auto;
+    padding: 10px 50px;
+}
+.store-form .heading {
+    font-size:16px;
+    font-weight: 700;
+    margin-bottom: 25px;
+    text-align:center;
+   
+}
+.store-form .form .inputs {
+    margin-bottom:8px;
+    display: flex;
+    align-items: center;
+}
+.store-form .form .inputs label {
+    width: 200px;
+    margin-right:10px;
+    font-size:15px;
+
+}
+.store-form .form .inputs .input {
+    margin-top:10px;
+    border:1.5px solid aqua;
+    height: 30px;
+    border-radius:4px;
+}
+.store-form .form .inputs .phone {
+    margin-top:10px;
+    border:1.5px solid aqua;
+    height: 30px;
+    border-radius:4px;
+}
+.store-form .form .inputs .name {
+    margin-top:10px;
+    border:1.5px solid aqua;
+    height: 30px;
+    border-radius:4px;
+}
+.store-form .form .textarea{
+    resize: none;
+    margin-top:10px;
+    border:1.5px solid aqua;
+    height: 50px;
+    border-radius:4px;
+    
+}
+.store-form .form .Gender {
+    margin-top:10px;
+    border:1.5px solid aqua;
+    height: 30px;
+    border-radius:4px;
+}
+.store-form .form .inputs .remember {
+    color:gray;
+    
+    
+}
+.store-form .form .inputs .buttn {
+    background-color:rgb(90, 155, 155);
+    border-radius:4px;
+    width:50%;
+    margin-left:170px;
+    align-items: center;
+}
